@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://4d5a.top/sitemap.xml 
+Sitemap: 4d5a.top/sitemap.xml 
