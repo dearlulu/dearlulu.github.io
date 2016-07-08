@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dearlulu.github.io/sitemap.xml 
+Sitemap: http://4d5a.top/sitemap.xml 
