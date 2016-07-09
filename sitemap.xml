@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>4d5a.top/blog/2016/07/09/what-is-difference-between-image-control-and-raw-image-control/</loc>
+<lastmod>2016-07-09T23:30:49+08:00</lastmod>
+</url>
+<url>
 <loc>4d5a.top/blog/archives/</loc>
 </url>
 <url>
 <loc>4d5a.top/</loc>
+</url>
+<url>
+<loc>4d5a.top/blog/categories/ugui/</loc>
 </url>
 </urlset>

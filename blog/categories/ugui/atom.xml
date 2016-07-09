@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="4d5a.top/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Ugui | My Octopress Blog]]></title>
+  <link href="4d5a.top/blog/categories/ugui/atom.xml" rel="self"/>
   <link href="4d5a.top/"/>
   <updated>2016-07-09T23:56:09+08:00</updated>
   <id>4d5a.top/</id>
